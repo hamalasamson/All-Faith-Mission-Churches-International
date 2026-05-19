@@ -1,0 +1,208 @@
+Badge:"https://i.imgur.com/c50ZwVn.png"highly professional modern mobile-style church web app for “All Faith Mission Churches International”. 
+
+Motto:
+“People of faith will never be defeated.”
+
+The app should feel like a real premium mobile application with:
+- smooth animations
+- glowing UI effects
+- rounded modern cards
+- professional spacing
+- responsive mobile-first design
+- bottom navigation bar
+- light mode by default
+- dark mode switch available
+- modern blue theme with smooth rainbow glowing effects
+- premium app-style interface similar to Spotify/Discord modern UI
+- splash loading screen for 3 seconds with animated church logo reveal
+
+Use:
+- React
+- Tailwind CSS
+- Firebase Authentication
+- Firebase Firestore database
+- Push Notifications
+- PWA support (installable app)
+- Admin dashboard
+- Modern app transitions
+
+Create a beautiful homepage/dashboard with:
+- church welcome section
+- modern animated hero section
+- daily Bible verse card
+- upcoming service countdown timer
+- livestream quick access
+- announcements section
+- quick giving button
+- prayer request shortcut
+
+BOTTOM NAVIGATION:
+- Home
+- Services
+- Livestreams
+- Recruitment
+- Giving
+- More
+
+SERVICES SECTION:
+Create professional service schedules with animated timeline cards.
+
+Morning Service:
+- Starts 7:00 AM
+- Praise 7:30 AM
+- Worship 8:00 AM - 8:30 AM
+- Testimonies after praise
+- Word 9:00 AM - 9:45 AM
+- Giving
+- Ends 10:00 AM
+
+Main Service:
+- Starts 10:00 AM
+- Praise 10:20 AM
+- Testimonies 11:00 AM
+- Worship 11:30 AM
+- Word 11:45 AM - 12:45 PM
+- Giving
+- Ends 1:00 PM
+
+Midweek Service:
+- Wednesday Bible Study starts 4:00 PM
+- Deliverance service ends at 8:00 PM
+
+Overnight Services:
+- First Friday overnight held at All Faith Mission Churches International
+- Last Friday overnight held at Signs And Wonders Church
+
+Create notification reminder systems and timers for:
+- Praise
+- Worship
+- Word
+- Giving
+- Overnight services
+- Midweek services
+- Deliverance Sunday
+
+Add animated countdown timers and push notification triggers.
+
+GIVING SECTION:
+Create modern giving cards for:
+- Tithe
+- Offertory
+- Thanksgiving
+- Seed
+- Partnership
+
+When clicked, redirect users to WhatsApp:
+https://wa.me/256772562123
+
+Display:
+“Contact the Pastor directly for giving instructions.”
+
+RECRUITMENT SECTION:
+Create beautiful department recruitment cards with professional automatically generated descriptions for each department.
+
+Departments:
+- Media — Negohe Ivan Khosler — 2567740512621
+- Choir — Naggawa Mariam — 256706427383
+- Praise and Worship — Naggawa Mariam — 256706427383
+- Men Ministry — Pastor Expedito — 256754720551
+- Women Ministry — Nkote Mariam — 256771601120
+- Ushering — Mrs. Nakanwagi Jessica — 256758894324
+- Youth Ministry — Kaduma Dasan — 256772965310
+- Outreaches and Evangelism — Mrs. Hamala Mbabazi — 256782147085
+
+Each card should include:
+- department icon
+- glowing hover effects
+- join button
+- WhatsApp redirect button
+- auto-generated department description
+- smooth animations
+
+LIVESTREAMS SECTION:
+Embed YouTube livestreams professionally using:
+https://www.youtube.com/@allfaithmissionchurches
+
+Include:
+- live indicator
+- upcoming streams
+- replay sermons
+- modern video cards
+
+SOCIAL MEDIA SECTION:
+Create animated social cards linking to:
+Facebook:
+https://www.facebook.com/allfaithmissionchurches/
+
+TikTok:
+https://www.tiktok.com/@allfaithmission.kisimu
+
+YouTube:
+https://www.youtube.com/@allfaithmissionchurches
+
+LOCATION SECTION:
+Create a beautiful interactive directions card with a “Get Directions” button that redirects users to:
+https://www.google.com/maps/dir/0.3879184,32.5359/All+Faith+Mission+Church+Ministries,+Nabweru+-+Kagoma,+Road,+Kampala,+Uganda/@0.388193,32.536222,17z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x177dafe21210acc3:0xb98a63ea19043f55!2m2!1d32.5358996!2d0.3879183?entry=ttu&g_ep=EgoyMDI2MDUxMy4wIKXMDSoASAFQAw%3D%3D
+
+PRAYER REQUEST SECTION:
+Create a beautiful prayer request form with:
+- name
+- prayer request
+- submit button
+- Firestore database saving
+- success animations
+
+LOGIN SYSTEM:
+Create:
+- sign up
+- sign in
+- forgot password
+- Firebase Authentication
+- Google sign in option
+- modern authentication pages
+- secure user sessions
+
+ADMIN DASHBOARD:
+Create a professional admin panel with:
+- manage announcements
+- upload livestream links
+- manage Bible verses
+- manage notifications
+- manage users
+- manage service schedules
+- analytics cards
+- glowing modern dashboard UI
+
+ANNOUNCEMENTS:
+Create dynamic announcement cards that pull from Firestore database.
+
+Include:
+- pinned announcements
+- event reminders
+- church updates
+- animated cards
+
+UI STYLE:
+- Extremely professional
+- Clean premium mobile app feel
+- Smooth page transitions
+- Blue glowing gradients
+- Rainbow glow accents
+- Glassmorphism cards
+- Modern typography
+- Floating action buttons
+- Elegant shadows
+- Soft animations
+- Responsive for phones and desktop
+
+Add:
+- installable PWA support
+- loading animations
+- skeleton loaders
+- smooth scroll
+- animated icons
+- modern church branding
+- optimized performance
+
+The final result should look like a professional premium church mobile application, not a simple website.
+```
